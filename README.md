@@ -9,7 +9,8 @@ Implemented five transposition ciphers:
 * Double Columnar
 * Myszkowski
 
-and in addition, also implemented Galois Cipher
+and in addition, also implemented
+* Galois Cipher
 
 All ciphers are derived from a BaseCipher.
 
