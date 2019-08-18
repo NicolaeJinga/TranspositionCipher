@@ -16,6 +16,8 @@ All ciphers are derived from a BaseCipher.
 
 Encryption and Decryption are done on the fly, meaning that as you type into the Input field, encrypted/decrypted text is generated in the output field. (if the corresponding button is selected)
 
+![](transposition.gif)
+
 ##### Regarding keys
 * Railfence takes an *integer* as a key
 * Route does not take any key
@@ -24,7 +26,7 @@ Encryption and Decryption are done on the fly, meaning that as you type into the
 * Miszkowski takes a *string* as a key
 * Galois takes no key
 
-# Usage
+## Usage
 * '<' button resets Input text field to default string
 * '^' moves the string from the Output text field to the input text field
 * 'X' empties the Input text field
