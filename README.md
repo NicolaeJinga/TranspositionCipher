@@ -3,7 +3,7 @@ Cryptography project implementing five transposition ciphers and Galois cipher. 
 
 ## Project Description
 Implemented five transposition ciphers:
-* Railfence
+* Rail Fence
 * Route
 * Columnar
 * Double Columnar
@@ -16,10 +16,12 @@ All ciphers are derived from a BaseCipher.
 
 Encryption and Decryption are done on the fly, meaning that as you type into the Input field, encrypted/decrypted text is generated in the output field. (if the corresponding button is selected)
 
+##### Preview of encrypting and decrypting with each cipher, in order.
+
 ![](transposition.gif)
 
 ##### Regarding keys
-* Railfence takes an *integer* as a key
+* Rail Fence takes an *integer* as a key
 * Route does not take any key
 * Columnar takes a *string* as a key
 * Double Columnar takes two strings separated by a '/' in the Key textbox field
