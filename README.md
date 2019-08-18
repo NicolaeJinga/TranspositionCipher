@@ -34,3 +34,4 @@ Encryption and Decryption are done on the fly, meaning that as you type into the
 * 'X' empties the Input text field
 * Select a cipher from the right panel to start encrypting/decrypting
 * Press either encrypt or decrypt to perform the operation
+* Text can also be copied and pasted with Ctrl+C and Ctrl+V respectively.
